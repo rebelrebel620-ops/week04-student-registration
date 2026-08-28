@@ -64,6 +64,9 @@
 <div class="container">
 
     <h1>Registered Students</h1>
+    <p style="text-align: center;">
+    Student Registration System
+    </p>
 
     <a href="{{ route('students.create') }}" class="register">
         + Register Student
