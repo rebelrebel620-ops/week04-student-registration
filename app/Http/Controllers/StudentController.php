@@ -34,6 +34,11 @@ class StudentController extends Controller
             'year_level' => 'required',
             'address' => 'required|string',
             'profile_picture' => 'required|image|mimes:jpg,jpeg,png|max:2048',
+        ], [
+            'student_id.unique' => 'This Student ID is already registered.',
+            'email.unique' => 'This email address is already registered.',
+            'profile_picture.image' => 'The profile picture must be an image.',
+            'profile_picture.max' => 'The profile picture must not be larger than 2MB.',
         ]);
 
         $profilePicturePath = $request->file('profile_picture')
