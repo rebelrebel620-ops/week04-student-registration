@@ -146,7 +146,7 @@
 
         <div class="detail">
             <strong>Date of Birth</strong>
-            {{ $student->date_of_birth }}
+            {{ $student->date_of_birth->format('F d, Y') }}
         </div>
 
         <div class="detail">
