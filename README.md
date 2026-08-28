@@ -346,7 +346,7 @@ The student's uploaded profile picture is displayed on the profile page.
 
 ### Student List
 
-![Student List](screenshots/SStudent-list.png)
+![Student List](screenshots/Student-list.png)
 
 The student list displays registered students stored in the system.
 
@@ -364,7 +364,7 @@ The screenshot shows the Laravel project structure in Visual Studio Code.
 
 ### Terminal
 
-![Terminal](screenshots/08-terminal.png)
+![Terminal](screenshots/Artisan-serve.png)
 
 The terminal shows the Laravel development server and Artisan commands used during development.
 
