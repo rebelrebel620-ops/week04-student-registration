@@ -328,37 +328,37 @@ The registration form allows students to enter their personal and academic infor
 
 ### Validation Errors
 
-![Validation Errors](screenshots/02-validation-errors.png)
+![Validation Errors](screenshots/validation-errors.png)
 
 The system displays validation errors when required information is missing or invalid.
 
 ### Successful Registration
 
-![Successful Registration](screenshots/03-successful-registration.png)
+![Successful Registration](screenshots/student-sucessfully-created.png)
 
 The system displays a success message after the student has been successfully registered.
 
 ### Uploaded Profile Picture
 
-![Uploaded Profile Picture](screenshots/04-uploaded-profile.png)
+![Uploaded Profile Picture](screenshots/Profile.png)
 
 The student's uploaded profile picture is displayed on the profile page.
 
 ### Student List
 
-![Student List](screenshots/05-student-list.png)
+![Student List](screenshots/SStudent-list.png)
 
 The student list displays registered students stored in the system.
 
 ### Database Records
 
-![Database Records](screenshots/06-database-records.png)
+![Database Records](screenshots/Database-sucessfully-working.png)
 
 The registered student information can be viewed in the MySQL database.
 
 ### Project Structure
 
-![Project Structure](screenshots/07-project-structure.png)
+![Project Structure](screenshots/Data-Structure.png)
 
 The screenshot shows the Laravel project structure in Visual Studio Code.
 
@@ -370,7 +370,7 @@ The terminal shows the Laravel development server and Artisan commands used duri
 
 ### Browser Output
 
-![Browser Output](screenshots/09-browser-output.png)
+![Browser Output](screenshots/student-sucessfully-created.png)
 
 The browser displays the working Student Registration System.
 
