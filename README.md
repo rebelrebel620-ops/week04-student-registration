@@ -158,7 +158,7 @@ The browser displays the registered student's information and uploaded profile p
 
 ### Request Lifecycle Diagram
 
-![Laravel Request Lifecycle](documentation/request-lifecycle.png)
+![Laravel Request Lifecycle](documentation/Laravel-Request-Lifecycle.png)
 
 ---
 
