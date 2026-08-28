@@ -322,7 +322,7 @@ week04-student-registration/
 
 ### Registration Form
 
-![Registration Form](SScreenshots/student-registration.png)
+![Registration Form](Screenshots/student-registration.png)
 
 The registration form allows students to enter their personal and academic information.
 
@@ -334,7 +334,7 @@ The system displays validation errors when required information is missing or in
 
 ### Successful Registration
 
-![Successful Registration](screenshots/student-sucessfully-created.png)
+![Successful Registration](Screenshots/student-sucessfully-created.png)
 
 The system displays a success message after the student has been successfully registered.
 
