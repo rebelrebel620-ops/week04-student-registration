@@ -238,7 +238,7 @@ The following fields must contain unique values:
 
 ### ER Diagram
 
-![Student Database ER Diagram](documentation/database-erd.png)
+![Student Database ER Diagram](documentation/Database_ERD.png)
 
 ---
 
@@ -270,7 +270,7 @@ Display Errors  Save Data
 
 ### Flowchart
 
-![Registration Flowchart](documentation/registration-flowchart.png)
+![Registration Flowchart](documentation/flowchart_mini_project-3.png)
 
 ---
 
@@ -322,7 +322,7 @@ week04-student-registration/
 
 ### Registration Form
 
-![Registration Form](screenshots/01-registration-form.png)
+![Registration Form](screenshots/student-registration.png)
 
 The registration form allows students to enter their personal and academic information.
 
