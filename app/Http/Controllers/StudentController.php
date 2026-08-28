@@ -44,6 +44,14 @@ class StudentController extends Controller
         $profilePicturePath = $request->file('profile_picture')
             ->store('profile-pictures', 'public');
 
+        if (!$profilePicturePath) {
+            return back()
+                ->withInput()
+                ->withErrors([
+                    'profile_picture' => 'The profile picture could not be uploaded.'
+                ]);
+}
+
         $validated['profile_picture'] = $profilePicturePath;
 
         $student = Student::create($validated);
