@@ -215,6 +215,7 @@
                     name="mobile_number"
                     value="{{ old('mobile_number') }}"
                     placeholder="09XXXXXXXXX"
+                    maxlength="20"
                 >
 
                 @error('mobile_number')
